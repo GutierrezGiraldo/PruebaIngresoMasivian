@@ -1,0 +1,6 @@
+D:\Pruebas Ingreso\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+D:\Pruebas Ingreso\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+D:\Pruebas Ingreso\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+D:\Pruebas Ingreso\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csprojResolveAssemblyReference.cache
+D:\Pruebas Ingreso\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+D:\Pruebas Ingreso\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
